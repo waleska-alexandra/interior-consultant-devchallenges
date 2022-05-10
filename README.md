@@ -38,7 +38,8 @@
 
 ![screenshot](https://github.com/waleska-alexandra/interior-consultant-devchallenges/blob/main/interior-consultant-preview-laptop.png)
 
-This was a amazing experience because I could to practice another things that I had forgotten or maybe I had never done. Don't have doubt, this was a great challenge. 
+This was a amazing experience because I could to practice another things that I had forgotten or maybe I had never done. Don't have doubt, this was a great challenge.
+I want to say this was my first time using Javascript in a project so, my fear was biggest, but surely this will be less everyday. 
 
 ### Built With
 
